@@ -1,5 +1,5 @@
 
-var sound = new Audio("https://www.freespecialeffects.co.uk/soundfx/animals/duck1.wav");
+var sound = new Audio("https://soundcloud.com/godpoori/skss");
 		sound.loop = true;
 
 
